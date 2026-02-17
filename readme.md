@@ -5,7 +5,7 @@ Each PDF page becomes a separate layer.
 
 ---
 
-🌍 Language: [English](README.md) | [Русский](README.ru.md)
+🌍 Language: [English](readme.md) | [Русский](readme.ru.md)
 
 ## Demo
 
@@ -71,3 +71,4 @@ Each PDF page becomes a separate layer.
 ## License
 
 MIT License
+
