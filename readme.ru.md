@@ -5,7 +5,7 @@
 
 ---
 
-🌍 Language: [English](README.md) | [Русский](README.ru.md)
+🌍 Language: [English](readme.md) | [Русский](readme.ru.md)
 
 
 ## Demo
@@ -76,3 +76,4 @@
 ## License
 
 MIT License
+
